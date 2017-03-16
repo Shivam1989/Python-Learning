@@ -1,0 +1,257 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"b",
+				"BASE_DIR"
+			],
+			[
+				"ti",
+				"title	Tag"
+			],
+			[
+				"h",
+				"head	Tag"
+			],
+			[
+				"M",
+				"Map"
+			],
+			[
+				"int",
+				"IntWritable"
+			]
+		]
+	},
+	"buffers":
+	[
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 0.0,
+		"history":
+		[
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"file_history":
+	[
+		"/Users/shivamgoel/Desktop/BigData/Lectures/ga_lab/LoadData.txt",
+		"/Users/shivamgoel/Desktop/Django/Django/learning_site/learning_site/views.py",
+		"/Users/shivamgoel/Desktop/Django/Django/my_project/manage.py",
+		"/Users/shivamgoel/Desktop/BigData/Assignment/Shivam_Goel_Assignment6/Part-3/Logistic_SuperMarketML/LogisticClassifier.cs",
+		"/Users/shivamgoel/Desktop/BigData/Assignment/Shivam_Goel_Assignment6/Part-3/Logistic_SuperMarketML/Program.cs",
+		"/Users/shivamgoel/hwapp/LogisticRegression/LogisticClassifier.cs",
+		"/Users/shivamgoel/hwapp/LogisticRegression/Program.cs",
+		"/Users/shivamgoel/todo-api/app1.py",
+		"/Users/shivamgoel/todo-api/app.py",
+		"/Users/shivamgoel/flask-introduction/app.py",
+		"/Users/shivamgoel/flask-introduction/run_app.py",
+		"/Users/shivamgoel/flask-introduction/library/_01_simple.py",
+		"/Users/shivamgoel/Downloads/Engineering-Big-Data-master 2/Hari_Panjwani_Section_1_Assignment_7/grouplens.bat",
+		"/Users/shivamgoel/Desktop/BigData/Assignment/ShivamGoel_Assignment5/Winnow_Assignment/Winnow_InsuranceML/Program.cs",
+		"/Users/shivamgoel/Desktop/BigData/Assignment/ShivamGoel_Assignment5/MarkovBooks/wm/Program.cs",
+		"/Users/shivamgoel/Desktop/BigData/Assignment/ShivamGoel_Assignment5/MarkovBooks/wm/WordExtractor.cs",
+		"/Users/shivamgoel/Desktop/BigData/Assignment/ShivamGoel_Assignment5/MarkovBooks/wm/TextStatistics.cs",
+		"/Users/shivamgoel/hwapp/project.json",
+		"/Users/shivamgoel/Downloads/Engineering-Big-Data-master 2/Hari_Panjwani_Section_1_Assignment_8/Logistic_SuperMarketML/Utils.cs",
+		"/Users/shivamgoel/Downloads/Engineering-Big-Data-master 2/Hari_Panjwani_Section_1_Assignment_8/Logistic_SuperMarketML/LogisticClassifier.cs",
+		"/Users/shivamgoel/Downloads/ReadMe_Midterm (3).md",
+		"/Users/shivamgoel/GitHub/Python/README.md",
+		"/Users/shivamgoel/GitHub/Python/ReadMe 4.25.08 PM.md",
+		"/Users/shivamgoel/GitHub/Python/Midterm/ReadMe 4.23.33 PM.md",
+		"/Users/shivamgoel/GitHub/Python/ReadMe1.md",
+		"/Users/shivamgoel/Desktop/Python/midterm/Question2/wordAnalysis/user/1-1-2017.json",
+		"/Users/shivamgoel/Desktop/Python/midterm/Question2/wordAnalysis/user/30-1-2017.json",
+		"/Users/shivamgoel/Desktop/Python/midterm/Question2/wordAnalysis/user/30-2-2017.json",
+		"/Users/shivamgoel/Desktop/Python/midterm/Question2/wordAnalysis/user/2-1-2017.json",
+		"/Users/shivamgoel/Downloads/line.html",
+		"/Users/shivamgoel/Desktop/Python/midterm/Question2/config/settings.cfg",
+		"/Users/shivamgoel/Desktop/Python/midterm/Question2/config/2017_11_11_Five Faces, All Immigrants, Are Added to the 9:11 Memorial",
+		"/Users/shivamgoel/Downloads/maildir/allen-p/_sent_mail/1.",
+		"/Users/shivamgoel/Downloads/DataAnalysis4Python_Spring17-master 2/Assignment 2/Data/1-abercrombie-lane-sydney.json",
+		"/Users/shivamgoel/Downloads/DataAnalysis4Python_Spring17-master 2/Assignment 2/Data/1-chicken-rice-and-seafood-houston.json",
+		"/Users/shivamgoel/Desktop/Python/Spandan/webtext",
+		"/Users/shivamgoel/Desktop/Python/Spandan/xyz.txt",
+		"/Users/shivamgoel/Desktop/Python/Spandan/Data/1-abercrombie-lane-sydney.json",
+		"/Users/shivamgoel/Desktop/hadoop-0.20.1/conf/hadoop-env.sh",
+		"/Users/shivamgoel/Desktop/hadoop-0.20.1/conf/core-site.xml",
+		"/Users/shivamgoel/Downloads/Engineering-Big-Data-master 2/Hari_Panjwani_Section_1_Assignment_6/Winnow_InsuranceML/Program.cs",
+		"/Users/shivamgoel/Desktop/Python/Spandan/Data/2-day-snow-weekender-at-mt-ruapehu-auckland.json",
+		"/Users/shivamgoel/Downloads/hadoop-0.20.1/Factorial.java",
+		"/Users/shivamgoel/Downloads/hadoop-0.20.1/wordcount.java",
+		"/Users/shivamgoel/Downloads/hadoop-0.20.1/LeibnizFormula.java",
+		"/Users/shivamgoel/Downloads/Lecture2AllMaterial/HadoopLabs/Lab3.begin/Runner.java",
+		"/Users/shivamgoel/Downloads/Lecture2AllMaterial/HadoopLabs/Lab3.begin/IpReducer.java",
+		"/Users/shivamgoel/Downloads/Lecture2AllMaterial/HadoopLabs/Lab3.begin/IpMapper.java",
+		"/Users/shivamgoel/Downloads/Engineering-Big-Data-master/Hari_Panjwani_Section_1_Assignment_2/3. Hadoop Lab 3/Runner.java",
+		"/Users/shivamgoel/Downloads/Program.cs",
+		"/Users/shivamgoel/hadoop-0.20.1/conf/mapred-site.xml",
+		"/Users/shivamgoel/hadoop-0.20.1/conf/hadoop-env.sh",
+		"/Users/shivamgoel/Desktop/hadoop-2.7.3/etc/hadoop/yarn-site.xml",
+		"/Users/shivamgoel/Desktop/hadoop-2.7.3/etc/hadoop/hdfs-site.xml",
+		"/Users/shivamgoel/Desktop/hadoop-2.7.3/etc/hadoop/core-site.xml",
+		"/Users/shivamgoel/Downloads/hadoop-0.20.1/conf/hdfs-site.xml",
+		"/Users/shivamgoel/Downloads/hadoop-0.20.1/conf/hadoop-env.sh",
+		"/Users/shivamgoel/Downloads/Lecture1/Coroutines.cs",
+		"/Users/shivamgoel/Desktop/Midterm/config.json",
+		"/Users/shivamgoel/Desktop/R Assignment/app.py",
+		"/Users/shivamgoel/Downloads/tone-analyzer-nodejs-master/manifest.yml",
+		"/Users/shivamgoel/Downloads/language-translator-nodejs-master/manifest.yml",
+		"/Users/shivamgoel/Downloads/tone-analyzer-nodejs-master/test/test.express.js",
+		"/Users/shivamgoel/hadoop-0.20.1/conf/hdfs-site.xml",
+		"/Users/shivamgoel/hadoop-0.20.1/conf/core-site.xml",
+		"/Users/shivamgoel/Downloads/cran/cranqrel.readme",
+		"/Users/shivamgoel/Downloads/hadoop-2.7.3/etc/hadoop/core-site.xml"
+	],
+	"find":
+	{
+		"height": 23.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+			"file",
+			"inpu",
+			"**in",
+			"open",
+			"UnfoldPrime",
+			"java_home"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"sheets":
+			[
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 23.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "trydjango10.sublime-project",
+	"replace":
+	{
+		"height": 42.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
